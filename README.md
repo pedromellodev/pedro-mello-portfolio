@@ -1,2 +1,2 @@
 # pedro-mello-portfolio
-Portfólio criado com Django
+Portfólio criado com React
