@@ -1,2 +1,2 @@
 # pedro-mello-portfolio
-Portfólio criado com React
+Portfólio criado com HTML, CSS e Javascript puro
