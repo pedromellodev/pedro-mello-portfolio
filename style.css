@@ -87,6 +87,10 @@ body{
     text-wrap: nowrap;
 }
 
+.gradient-btn a{
+    color: white;
+}
+
 .gradient-btn:hover{
     transform: scale(1.05);
 }
